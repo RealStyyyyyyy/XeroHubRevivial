@@ -28,13 +28,13 @@ end
 local THEME_BACKGROUNDS = {
     Xero = {
     URL = tostring(XeroEnv.XERO_BACKGROUND_URL or
-        "https://raw.githubusercontent.com/OnyxDevv/Onyx-web/refs/heads/main/assets/backgrounds/rei-brush.png"),
+        "https://raw.githubusercontent.com/RealStyyyyyyy/XeroHubRevivial/refs/heads/main/rei_brush_v1.png"),
     CACHE = tostring(XeroEnv.XERO_BACKGROUND_CACHE or
         "XeroHub/Assets/rei_brush_v1.png"),
     },
     Blanco = {
         URL = tostring(XeroEnv.XERO_BACKGROUND_LIGHT_URL or XeroEnv.XERO_BACKGROUND_WHITE_URL or
-            "https://raw.githubusercontent.com/OnyxDevv/Onyx-web/refs/heads/main/assets/backgrounds/xero_anime_white.png"),
+            "https://raw.githubusercontent.com/RealStyyyyyyy/XeroHubRevivial/refs/heads/main/xero_anime_white_v1.png"),
         CACHE = tostring(XeroEnv.XERO_BACKGROUND_LIGHT_CACHE or XeroEnv.XERO_BACKGROUND_WHITE_CACHE or
             "XeroHub/Assets/xero_anime_white_v1.png"),
     },
